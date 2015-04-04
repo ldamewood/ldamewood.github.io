@@ -3,7 +3,7 @@ title: My Insert-Blog-Title-Here Blog
 email: damewood@physics.ucdavis.edu
 description: > # this means to ignore newlines until "baseurl:"
   Some random stuff.
-baseurl: "/blog/" # the subpath of your site, e.g. /blog/
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: "https://ldamewood.github.io" # the base hostname & protocol for your site
 twitter_username: ldamewood
 github_username: ldamewood
